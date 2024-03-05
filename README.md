@@ -15,9 +15,9 @@ Klonlamak İçin Cmd Ye Şu Komutu Yazın!
 git clone https://github.com/RelaX0001/RelaX-Encoder.git
 ```
 
-Ardından İndirdiğiniz Relax-Encoder-main Dosyasını Rardan Çıkarın,
+Ardından İndirdiğiniz 🔴 Relax-Encoder-main 🔴 Dosyasını Rardan Çıkarın,
 
-Sonra İçerisine Girip RelaX_Encode_And_Decode.exe Uygulamasaını Açın,
+Sonra İçerisine Girip 🟢 RelaX_Encode_And_Decode.exe 🟢 Uygulamasaını Açın,
 
 Sonra İstediğiniz Yazıyı yazıp Şifreleme Türü Seçip Şifreleyebilirsiniz.
 
