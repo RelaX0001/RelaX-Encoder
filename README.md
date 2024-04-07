@@ -2,14 +2,14 @@
 Çok Basit Bir Md-5 , Sha-1 , Sha-256 , Sha-384 , Sha-512 , Base-64 Şifreleyici Ve Base-64 Çözücü!
 
 ## 🔍 〢 Gereksinimler
-- Git (Depoyu Klonlamak İçin Ama İstersen [İndir](https://github.com/RelaX0001/RelaX-Encoder/releases/download/RelaX_Encode_And_Decode.exe/RelaX_Encode_And_Decode.exe))
+- Git (Depoyu Klonlamak İçin Ama İsterseniz İndirebilirsiniz)
   
 - (Git-64 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
 - (Git-32 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe
 
 Öncelikle Selamlar Ben RelaX 
 
-Depoyu Klonlayın Veya İndirin!
+Depoyu Klonlayın Veya [İndirin](https://github.com/RelaX0001/RelaX-Encoder/releases/download/RelaX_Encode_And_Decode.exe/RelaX_Encode_And_Decode.exe)!
 Klonlamak İçin Cmd Ye Şu Komutu Yazın!
 ```
 git clone https://github.com/RelaX0001/RelaX-Encoder.git
