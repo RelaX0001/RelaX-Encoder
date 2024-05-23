@@ -9,7 +9,7 @@
 
 Öncelikle Selamlar Ben RelaX 
 
-Depoyu Klonlayın Veya [İndirin](https://github.com/RelaX0001/RelaX-Encoder/releases/download/RelaX_Encode_And_Decode.exe/RelaX_Encode_And_Decode.exe)!
+Depoyu Klonlayın Veya [İndirin](https://github.com/RelaX0001/RelaX-Encoder/releases/download/RelaX_Encode_And_Decode.exe/RelaX.Encode.And.Decode.exe)!
 Klonlamak İçin Cmd Ye Şu Komutu Yazın!
 ```
 git clone https://github.com/RelaX0001/RelaX-Encoder.git
